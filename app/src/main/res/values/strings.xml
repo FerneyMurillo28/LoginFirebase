@@ -1,0 +1,11 @@
+<resources>
+    <string name="cond">Condiciones</string>
+    <string name="app_name">NuevoLogin</string>
+    <string name="Login_Title">App de Consulta</string>
+    <string name="Sub_Tittle">App Personal</string>
+    <string name="Text_legal1">Al usar la aplicacion esta aceptando nuestras</string>
+    <string name="Text_legal2">terminos de servicios </string>
+    <string name="Text_legal3"> y </string>
+    <string name="Text_legal4"> nuestras politicas de privacidad</string>
+    <string name="Login_cta">Login Google</string>
+</resources>
